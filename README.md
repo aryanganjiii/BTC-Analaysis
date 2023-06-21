@@ -1,5 +1,5 @@
 # BTC-Analaysis
-BTC predictor : Predict BTC price in 12th month
+BTC predictor : Predict BTC price in 12th month \n
 tamrin1 : The month with the most profit and loss
 tamrin2 : The best and worst days of the week for investing by The least loss
 tamrin3 : alex has 1000$
